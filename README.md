@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Lokesh Macharla</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Ui/Ux desinger from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshappdev&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshappdev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lokesh developer" target="blank"><img src="https://img.shields.io/twitter/follow/lokesh developer?logo=twitter&style=for-the-badge" alt="lokesh developer" /></a> </p>
 
-- 🔭 I’m currently working on **Beauty Plus Application App**
+- 🔭 I’m currently working on **Food Application App**
 
-- 🌱 I’m currently learning **M.E.R.N Full Stack**
+- 🌱 I’m currently learning **Ui/Ux**
 
 - 🤝 I’m looking for help with **Ui/Ux desing**
 
 - 👨‍💻 All of my projects are available at [@lokesh_developer instagram id](@lokesh_macharla instagram id)
 
-- 💬 Ask me about **,React.Js ,Full Stack web development, Final Year projects, Career Guide,**
+- 💬 Ask me about **,Ui/Ux, Final Year projects, Career Guide,**
 
 - 📫 How to reach me **Lokeshappdev777@gmail.com**
 
