@@ -1,4 +1,3 @@
-([![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jVg-acoKYbqFc9Usw_gSCT1Q58djOHrxzA&s)
 <h1 align="center">Hi 👋, I'm Lokesh Macharla</h1>
 <h3 align="center">A passionate Ui/Ux Desinger from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
