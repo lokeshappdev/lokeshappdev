@@ -11,17 +11,15 @@
 
 - 🌱 I’m currently learning **Ui/Ux**
 
-- 👯 I’m looking to collaborate on **Grocery App**
-
 - 🤝 I’m looking for help with **Ui/Ux Desing**
 
-- 👨‍💻 All of my projects are available at [Lokeshmacharla.com](Lokeshmacharla.com)
+- 👨‍💻 All of my projects are available at [https://lokeshmacharla.designfolio.me/)
 
 - 💬 Ask me about **Ui/Ux, Web desing, App desing**
 
-- 📫 How to reach me **Lokeshmacharla7@gmail.com**
+- 📫 How to reach me **Lokeshuiux777@gmail.com**
 
-- 📄 Know about my experiences [1 Year Experiance At Freelance](1 Year Experiance At Freelance)
+- 📄 Know about my experiences [8 Months Experiance At Freelance]
 
 - ⚡ Fun fact **Iam Funny**
 
